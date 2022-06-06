@@ -22,7 +22,7 @@
 ### Clone Repository
 
 ```
-git clone https://github.com/BohdanFiliuk/dress-shop-web.git
+git clone https://github.com/BohdanFiliuk/react-dress-shop-vercel.git
 ```
 
 ### Client Installation
